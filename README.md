@@ -11,7 +11,7 @@
 
 ---
 
-### [Защита персональных данных клиентов](https://github.com/zhkvv/Yandex.Praktikum/tree/main/Data%20Encryption)
+### [Защита персональных данных клиентов]([https://github.com/zhkvv/Yandex.Praktikum/tree/main/Data%20Encryption](https://github.com/zhkvv/Yandex.Praktikum/tree/main/Data%20Encryption))
 
 Защита данных клиентов страховой компании и разработка метода преобразования данных с высокой степенью сложности восстановления персональных данных.
 
