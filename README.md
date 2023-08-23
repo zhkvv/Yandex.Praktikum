@@ -3,7 +3,7 @@
 
 ## Список проектов:
 
-### [Исследовательский анализ данных интернет-магазина](https://github.com/zhkvv/Yandex.Praktikum/tree/main/GameDev_Marketing_Analysis)
+### [Исследовательский анализ данных интернет-магазина]([https://github.com/zhkvv/Yandex.Praktikum/tree/main/GameDev_Marketing_Analysis](https://github.com/zhkvv/Yandex.Praktikum/tree/main/GameDev%20Marketing%20Analysis))
 
 Отработатка принципа работы с данными, включая выгрузку, предобработку, исследовательский анализ и работу со стат. гипотезами.
 
